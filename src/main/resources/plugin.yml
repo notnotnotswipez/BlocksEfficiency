@@ -1,0 +1,4 @@
+name: BlocksEfficiency
+version: ${project.version}
+main: me.swipez.blocksefficiency.BlocksEfficiency
+api-version: 1.16
